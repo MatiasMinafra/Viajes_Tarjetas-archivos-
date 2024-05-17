@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1715961492 source:c:\users\usuario\documents\programacion codeblocks\programacion\programa 1\bin\debug\viajes_tarjetas\main.cpp
+	<iostream>
+	<string.h>
+
