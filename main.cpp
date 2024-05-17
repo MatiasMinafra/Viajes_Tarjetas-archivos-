@@ -689,6 +689,7 @@ void puntoK(){
     objetok.set_num_tarjeta(objetoTarjeta.getnumerotarjeta());
     objetok.grabardisco();
 
+
  }
 
 }
